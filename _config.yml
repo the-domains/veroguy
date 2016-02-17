@@ -1,0 +1,28 @@
+name: Veroguy
+favicon: null
+layout_spectrum: 0.9626272832974792
+typography_spectrum: 0.9797166115604341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4326647666748613
+  lightness: 0.3235052861273289
+  saturation: 0.4651416316628456
+  rhythmicContrast: 0.47770605282858014
+purpose: []
